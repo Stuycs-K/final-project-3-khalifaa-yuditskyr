@@ -1,22 +1,27 @@
 # Work Log
 
-## GROUP MEMBER 1
+## River Yuditsky
 
-### date x
+### 5/18/23
 
-info
+Discussed with partner potential routes we wanted to steer our projects goals.
 
-### date y
+### 5/19/23
 
-info
+___AP CALC BC Exam___.
+
+### 5/22/23 
 
 
-## GROUP MEMBER 2
+## Akram Khalifa
 
-### date x
+### 5/18/23
 
-info
+Discussed with partner potential routes we wanted to steer our projects goals.
 
-### date y
+### 5/19/23 
 
-info
+Researched a wide range of image steganography tools and decided to focus on an implementation of Discrete Cosine Transform in image steganography.
+
+### 5/22/23 
+
